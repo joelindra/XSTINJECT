@@ -7,11 +7,11 @@ This Bash script performs TRACE requests on specified targets and provides feedb
 ## Usage
 
 ```bash
-./trace_script.sh <mode> <target or target_list>
+./xst <mode> <target or target_list>
 ```
 ## Modes
-./trace_script.sh single <target><br>
-./trace_script.sh list <target_list>
+./xst single <target><br>
+./xst list <target_list>
 
 ## Results Folder
 The script creates a "results" folder and saves valid targets in the "valid.txt" file.
