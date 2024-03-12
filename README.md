@@ -7,10 +7,10 @@ This Bash script performs TRACE requests on specified targets and provides feedb
 ## Usage
 
 ```bash
-./xst <mode> <target or target_list>
+./xstinject.sh <mode> <target or target_list>
 ```
 ## Modes
-./xst single <target><br>
+./xstinject single <target><br>
 ./xst list <target_list>
 
 ## Results Folder
